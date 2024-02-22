@@ -1,0 +1,12 @@
+body {
+    font-family: "Vesper Libre", serif;
+    color: #1a1a1a;
+    line-height: 1.5;
+    margin: 0;
+}
+
+header, footer {
+background-color: #000;
+color: #fff;
+text-align: center;
+}
